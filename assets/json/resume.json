@@ -8,9 +8,9 @@
     "summary": "Life Science engineer and 'technologist', interested in technology, music and the human mind. I like to build stuff DIY-style.",
     "profiles": [
       {
-        "network": ,
-        "username":,
-        "url":
+        "network": "",
+        "username":"",
+        "url": ""
       }
     ]
   },
@@ -37,7 +37,7 @@
       "endDate": ,
       "summary": "I joined the EduGame Work Package of the NCCR Evolving Language. The project aimed at leveraging action video games' mechanics to foster reading acquisition in children. I was involved in the design and development of an automated, computerized cognitive and reading assessment battery that was to be used to assess the impact of a gamified attentional control training on executive functions and reading skills. I was also responsible for the implementation of automatic speech recognition solutions in the battery to improve the independence of the children during the verbal tests of the battery. Finally, I was responsible for the processing, analysis and interpretation of the assessment's results.",
       "highlights": ["Attentional control", "Reading acquisition", "Cognitive assessment", "Video games", "ASR"]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -59,7 +59,7 @@
       "studyType": "PhD",
       "startDate": "2021-09-01",
       "endDate": "2023-03-01 (unfinished)",
-      "courses":
+      "courses": ["Phenomenology and Art in Neuroscience Training (EPFL)", "Introduction to Database Management Systems (EPFL)", "Langage (UNIGE)"]
     },
     {
       "institution": "EPFL",
@@ -70,7 +70,7 @@
       "startDate": "2017-09-01",
       "endDate": "2020-10-01",
       "score": "4.98 / 5 ",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Biological Modeling of Neural Networks", "Neuroscience I, II & III", "Machine Learning", "Data Science for Engineers", "Dynamical Systems", "Virtual Reality", "Dynamical System Theory for Engineers", ""]
     },
     {
       "institution": "EPFL",
@@ -81,7 +81,7 @@
       "startDate": "2014-09-01",
       "endDate": "2018-02-01",
       "score": "4.51 / 5 ",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Molecular Biology of the Cell", "Advanced General Chemistry", "Analysis I, II & III", "Physics I, II & III", "Signals and Systems I & II", "Dynamical Systems in Biology", "System Physiology", "Electrical Systems", "Programming (C++)", "Linear Algebra I & II", "Numerical Analysis", ""]
     }
   ],
   "certificates": [
@@ -110,16 +110,9 @@
   "skills": [
     {
       "name": "Physics",
-      "level": "Master",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": []
     }
   ],
   "languages": [
