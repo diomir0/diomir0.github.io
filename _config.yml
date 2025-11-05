@@ -9,11 +9,11 @@ last_name: Piton
 contact_note: >
   Feel free to reach me by mail @ proxy.piton@proton.me! Let's connect ;)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The place is home to (some of) my thoughts and projects. Hopefully some of that will resonate with you! 
+  The place is home to (some of) my thoughts and projects. Hopefully some of that will resonate with you.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Timothy Piton, diomir0 # add your own keywords or leave empty
+keywords: Timothy Piton, diomir0, science, audio, neuroscience, diy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -46,7 +46,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
