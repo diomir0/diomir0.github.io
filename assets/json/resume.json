@@ -1,114 +1,101 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Timothy Piton",
+    "label": "Life Science & Technology Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "proxy.piton@proton.me",
+    "url": "https://diomir0.github.io",
+    "summary": "Life Science engineer and 'technologist', interested in technology, music and the human mind. I like to build stuff DIY-style.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": ,
+        "username":,
+        "url":
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Université de Genève",
+      "position": "Research Assistant @ FBMlab",
+      "startDate": "2023-09-15",
+      "endDate": "2024-01-15",
+      "summary": "I recruited, assessed and supervised MCI patients, and trained their caregivers for a clinical research trial on the possible behavioral benefits during and after a 3-month long transcranial stimulation procedure. The stimulations, targeting the left angular gyrus, were performed at home by the caregivers while our team supervised the sessions remotely.",
+      "highlights": ["Alzheimer's disease", "MCI", "Meta-analysis", "tACS"]
+    },
+    {
+      "name": "Université de Genève",
+      "position": "Research Assistant @ Brain & Learning lab",
+      "startDate": "2023-03-01",
+      "endDate": "2024-08-31",
+      "summary": "While I decided to interrupt my PhD, I was offered to continue and finish my work related to ASR implementation and experimental data analysis. During that period, I worked closely with a small team of two undergraduate research assistants who assisted me in improving ASR quality."
+    },
+    {
+      "name": "Université de Genève",
+      "position": "Graduate Researcher",
+      "startDate": "2021-09-01",
+      "endDate": ,
+      "summary": "I joined the EduGame Work Package of the NCCR Evolving Language. The project aimed at leveraging action video games' mechanics to foster reading acquisition in children. I was involved in the design and development of an automated, computerized cognitive and reading assessment battery that was to be used to assess the impact of a gamified attentional control training on executive functions and reading skills. I was also responsible for the implementation of automatic speech recognition solutions in the battery to improve the independence of the children during the verbal tests of the battery. Finally, I was responsible for the processing, analysis and interpretation of the assessment's results.",
+      "highlights": ["Attentional control", "Reading acquisition", "Cognitive assessment", "Video games", "ASR"]
+    },
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Aldo Rinjani Trekking",
+      "location": "Senaru, Lombok, Indonesia",
+      "position": "Website designer and content translator",
+      "url": "https://aldolombokvolcano.com/",
+      "startDate": "2025-07-01",
+      "endDate": "2025-08-01",
+      "summary": "Redesigned the website for fluency, and translated the content from English to French."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Université de Genève",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.unige.ch",
+      "area": "Neuroscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "startDate": "2021-09-01",
+      "endDate": "2023-03-01 (unfinished)",
+      "courses":
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.epfl.ch/",
+      "area": "Life Science & Technology",
+      "studyType": "MSc.",
+      "startDate": "2017-09-01",
+      "endDate": "2020-10-01",
+      "score": "4.98 / 5 ",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "EPFL",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.epfl.ch/",
+      "area": "Life Science & Technology",
+      "studyType": "BSc.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-02-01",
+      "score": "4.51 / 5 ",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Cambridge C1 Certificate",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "University of Cambridge",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Good Clinical Practice Level 1 - Investigator",
+      "date": "2023-11-28",
+      "issuer": "Hôpitaux Universitaires de Genève",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -151,7 +138,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,7 +146,17 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Greek",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
   ],
   "interests": [
     {
