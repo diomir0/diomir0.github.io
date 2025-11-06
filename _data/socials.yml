@@ -13,7 +13,7 @@
 email: proxy.piton@proton.me # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
- github_username: diomir0 # your GitHub user name
+github_username: diomir0 # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -27,7 +27,7 @@ email: proxy.piton@proton.me # your email address
 linkedin_username: tpiton # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0002-3217-0595 # your ORCID ID
+orcid_id: 0000-0002-3217-0595 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
