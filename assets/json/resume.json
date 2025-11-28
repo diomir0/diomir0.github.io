@@ -116,19 +116,51 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Breathing is coupled with voluntary initiation of mental imagery",
+      "publisher": "NeuroImage",
+      "releaseDate": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=scvao5YAAAAJ&citation_for_view=scvao5YAAAAJ:u5HHmVD_uO8C",
+      "summary": "In this study, we investigated whether the breathing system is associated with voluntary initiation of mental actions (i.e., motor and visual imagery) which are not accompanied by any overt movement. Our findings suggest breathing-action coupling is involved in more general action preparation processing, regardless of any subsequent motor process."
+    },
+    {
+      "name": "Gut-brain coupling and multilevel physiological response to biofeedback relaxation after a stressful task under virtual reality immersion: A pilot study",
+      "publisher": "Applied Psychophysiology and Biofeedback",
+      "releaseDate": "2023",
+      "url": "https://link.springer.com/article/10.1007/s10484-022-09566-y",
+      "summary": "Recent studies have demonstrated an electrophysiological coupling between the gastrointestinal tract and the brain (gut-brain axis) under resting-state conditions. As the gut-brain axis plays a key role in individual stress regulation, we aimed to examine modulation of gut-brain coupling through the use of an overwhelming and a relaxing module as a first step toward modeling of the underlying mechanisms."
+    },
+    {
+      "name": "Using commercial ASR solutions to assess reading skills in children: A case report",
+      "publisher": "In Proceedings of Interspeech",
+      "releaseDate": "2023",
+      "url": "https://publidiap.idiap.ch/attachments/papers/2023/Piton_INTERSPEECH_2023.pdf",
+      "summary": "Reading is an acquired skill that is essential for integrating and participating in today’s society. Yet, becoming literate can be particularly laborious for some children. Identifying reading difficulties early enough is the first, necessary step toward remediation. Here we investigate the opportunities and limitations of integrating commercial, off-the-shelf automatic speech recognition (ASR) services from IBM Watson to ease the administration and evaluation of children’s reading assessment tests in French and Italian."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
+      "level": "Comfortable",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "R"]
+    },
+    {
+      "name": "Signal Processing",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": []
+      "keywords": ["ECG", "EDA", "EMG", "EEG", "EGG"]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Behavioral Data", "Unstructured Data"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["NLP"]
     }
   ],
   "languages": [
@@ -155,38 +187,33 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Music Composition & Production",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Ableton Live",
+        "Pure Data",
+        "VCV Rack",
+        "Audacity"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Olaf Blanke",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Supervisor of my Master's thesis"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Hyeong Dong Park",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Co-supervisor and co-author of my Master's thesis"
+    },
+    {
+      "name": "Lucie Bréchet",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": ""
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
