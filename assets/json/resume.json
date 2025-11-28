@@ -48,7 +48,7 @@
       "startDate": "2020-02-01",
       "endDate": "2020-10-01",
       "summary": "During this research experience, we investigated the extent of the coupling between breathing phase, voluntary motor and mental imagery and readiness potential amplitude. Our results indicated that such a coupling existed in both voluntary motor and mental imagery ocnditions, extending the findings of Park et al. (2020) that shed light on breathing, readiness potential and voluntary motor action coupling.",
-      "highlights": ["Libet", "pre-SMA", "Voluntary action", "Readiness potential", "Bereitschaftspotential", "Breathing"]
+      "highlights": ["Libet's Paradigm", "pre-SMA", "Breathing-voluntary action coupling", "Readiness potential", "ERP"]
     },
     {
       "name": "Open Mind Innovation",
@@ -76,7 +76,7 @@
       "institution": "Université de Genève",
       "location": "Geneva, CH",
       "url": "https://www.unige.ch",
-      "area": "Neuroscience",
+      "area": "Cognitive Neuroscience",
       "studyType": "PhD (unfinished)",
       "startDate": "2021-09-01",
       "endDate": "2023-03-01",
@@ -147,13 +147,13 @@
       "name": "Programming",
       "level": "Comfortable",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "R"]
+      "keywords": ["Python \t(+++)", "R \t(+++)", "C++ \t(++)", "Bash \t(+)", "SQL \t(++)"]
     },
     {
       "name": "Signal Processing",
       "level": "",
       "icon": "fa-solid fa-wave-square",
-      "keywords": ["ECG", "EDA", "EMG", "EEG", "EGG"]
+      "keywords": ["ECG", "EDA", "EMG", "EEG", "EGG", "Audio"]
     },
     {
       "name": "Data Analysis",
