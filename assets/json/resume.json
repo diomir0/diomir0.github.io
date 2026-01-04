@@ -121,6 +121,13 @@
   ],
   "publications": [
     {
+      "name": "Cognitive adaptations for memory deficits in MCI and AD patients: A meta-analysis of EEG microstates",
+      "publisher": "NeuroImage: Clinical",
+      "releaseDate": "2025",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2213158225002025?via%3Dihub",
+      "summary": "This meta-analysis synthesized the results of 12 experimental studies on EEG microstate differences between AD/MCI patients and healthy age-matched controls. Our findings indicate increased microstate A and decreased microstates C/D in MIC and AD patients, suggesting a possible compensatory recruitment of sensory-related areas to make up for executive and memory deficits."
+    },
+    {
       "name": "Breathing is coupled with voluntary initiation of mental imagery",
       "publisher": "NeuroImage",
       "releaseDate": "2022",
