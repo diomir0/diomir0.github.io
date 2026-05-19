@@ -16,6 +16,15 @@
   },
   "work": [
     {
+      "name": "CIBM",
+      "position": "Research Assistant @ NeuroTuning Lab",
+      "location": "Geneva, CH",
+      "startDate": "2026-05-01",
+      "endDate": "current",
+      "summary": "Working on EEG denoising and neurofeedback. More to come!",
+      "highlights": ["EEG", "Neurofeedback", "GEDAI"]
+    },
+    {
       "name": "Université de Genève",
       "position": "Research Assistant @ FBMlab",
       "location": "Geneva, CH",
@@ -121,6 +130,13 @@
   ],
   "publications": [
     {
+      "name": "Family caregiver perspectives on administering home-based stimulation in patients with mild cognitive impairment",
+      "publisher": "Journal of Alzheimer’s Disease",
+      "releaseDate": "2026",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/13872877261429857",
+      "summary": "We looked into whether caregivers could effectively deliver tACS to MCI patients at home, concluding that it is a viable approach though it can be demanding on the caregiver's daily life. My role in the project focused on supervising the patients and performing the initial data analysis to determine the system's overall acceptability."
+    },
+    {
       "name": "Cognitive adaptations for memory deficits in MCI and AD patients: A meta-analysis of EEG microstates",
       "publisher": "NeuroImage: Clinical",
       "releaseDate": "2025",
@@ -223,7 +239,12 @@
     {
       "name": "Lucie Bréchet",
       "icon": "fa-normal fa-user",
-      "reference": ""
+      "reference": "Direct supervisor at the FBMlab"
+    },
+    {
+      "name": "Tomas Ros",
+      "icon": "fa-normal fa-user",
+      "reference": "Supervisor at the NeuroTuning Lab"
     }
   ],
   "projects": [
